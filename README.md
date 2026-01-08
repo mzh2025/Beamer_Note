@@ -1,4 +1,4 @@
-# LaTex Beamer Note
+# LaTEX Beamer Note
 
 
 ## Useful Links:
